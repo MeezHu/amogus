@@ -1,1 +1,1 @@
-print("amogus")
+print("amogugus")
